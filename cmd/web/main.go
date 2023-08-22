@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Mitkun/bookings/pkg/config"
-	"github.com/Mitkun/bookings/pkg/handlers"
-	"github.com/Mitkun/bookings/pkg/render"
+	"github.com/Mitkun/bookings/internal/config"
+	"github.com/Mitkun/bookings/internal/handlers"
+	"github.com/Mitkun/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
